@@ -27,7 +27,7 @@ If you have problems installing CPLEX, check the [CPLEX user manual](http://www-
 
 ## Citation 
 
-If you use SLIM, please cite [our paper](http://http//arxiv.org/abs/1502.04269/)! 
+If you use SLIM, please cite [our paper](https://arxiv.org/abs/1502.04269/)! 
      
 ```
 @article{
